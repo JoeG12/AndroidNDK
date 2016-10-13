@@ -10,7 +10,7 @@
     <string name="quantity">Quantity</string>
     <string name="view">View</string>
     <string name="action">Action</string>
-    <string name="order">Order</string>
+    <string name="order">Add to Cart</string>
     <string name="price">Price</string>
     <string name="total_price">Total Price</string>
     <string name="remove">Remove</string>
